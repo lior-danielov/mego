@@ -1,0 +1,37 @@
+db.Tools.insert([
+  {
+    name: 'Screwdriver with tow batarries',
+    price: 500,
+    color: 'blue',
+    type: 'house',
+    id_stor: 533242
+  },
+  {
+    name: 'drill',
+    price: 400,
+    color: 'green',
+    type: 'house',
+    id_stor: 173242
+  },
+  {
+    name: 'lantern',
+    price: 450,
+    color: 'yellow',
+    type: 'stor',
+    id_stor: 770242
+  },
+  {
+    name: 'patishon',
+    price: 650,
+    color: 'grey',
+    type: 'builds',
+    id_stor: 781242
+  },
+  {
+    name: 'charger',
+    price: 250,
+    color: 'white',
+    type: 'tools of drill',
+    id_stor: 121342
+  }
+])

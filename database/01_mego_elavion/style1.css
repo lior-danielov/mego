@@ -1,0 +1,21 @@
+.colc-container{
+    height: 50px;
+    width: 30px;
+    border-radius: 50px;
+}
+
+.calc-container .top-container{
+
+    height: 50px;
+    background-color: black;
+    border-radius: 50px;
+    color: white;
+}
+
+.calc-container .bottom-container{
+height: 500px;
+background-color: chartreuse;
+
+
+
+}
